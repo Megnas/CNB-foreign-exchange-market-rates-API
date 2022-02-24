@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CNB_foreign_exchange_market_rates_API:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CNB_foreign_exchange_market_rates_API_jar</output-path>
+    <root id="archive" name="CNB-foreign-exchange-market-rates-API.jar">
+      <element id="module-output" name="CNB_foreign_exchange_market_rates_API" />
+    </root>
+  </artifact>
+</component>
